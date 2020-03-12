@@ -8,3 +8,5 @@ Related blog post **Importing AdventureWorks data into Neo4j**
 
 http://stephanefrechette.com/importing-adventureworks-data-into-neo4j/
 
+Also checkout 
+https://sqlzoo.net/wiki/AdventureWorks
